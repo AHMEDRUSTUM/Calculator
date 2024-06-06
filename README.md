@@ -7,16 +7,8 @@ This is a simple calculator application built using Java Swing. The calculator s
 - Basic arithmetic operations: addition, subtraction, multiplication, and division
 - Clear button to reset the display
 - User-friendly interface with large buttons and display
-
-
-
-##  Getting Started
-
-###  Prerequisites
-
-- Java Development Kit (JDK) installed
-- A text editor or an Integrated Development Environment (IDE) like IntelliJ IDEA, Eclipse, or NetBeans
-
+- 
+## Screenshot
 
 
 ##  Usage
